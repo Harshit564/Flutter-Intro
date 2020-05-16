@@ -1,4 +1,4 @@
-# smileattachface
+# Flutter Firebase Intro
 
 A new Flutter application.
 
