@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90224973685",
+    "firebase_url": "https://smiley-face-app.firebaseio.com",
+    "project_id": "smiley-face-app",
+    "storage_bucket": "smiley-face-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90224973685:android:f8d7fe3c456e3d2a14653c",
+        "android_client_info": {
+          "package_name": "com.masky.smileattachface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90224973685-osj94hc0q617tup6vp94o96vpo2f71dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masky.smileattachface",
+            "certificate_hash": "075b9504d4968f52efb06dcad51cf2a8d16ca93c"
+          }
+        },
+        {
+          "client_id": "90224973685-4muk5e0bq0tkv54jn23dhnne64mg1018.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2k_XFWIo6YsduxmdTyrNaK48MD8QeRyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90224973685-4muk5e0bq0tkv54jn23dhnne64mg1018.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
